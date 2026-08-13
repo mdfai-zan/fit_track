@@ -1,4 +1,4 @@
-# Fit Tracker
+# Fit Track
 > FitTrack is a fitness management application designed to help users monitor and improve their workout session.
 
 ---
