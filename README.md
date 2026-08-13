@@ -1,5 +1,5 @@
 # Fit Tracker
-> It track sets and rep of training session.
+> FitTrack is a fitness management application designed to help users monitor and improve their workout session.
 
 ---
 
